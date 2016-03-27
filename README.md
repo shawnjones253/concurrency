@@ -1,1 +1,1 @@
-# samples of my work in the concurrency class
+# samples of my work in a concurrency class
